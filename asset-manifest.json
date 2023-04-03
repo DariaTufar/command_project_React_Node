@@ -1,13 +1,16 @@
 {
   "files": {
     "main.css": "/command_project_React_Node/static/css/main.7acaea2f.css",
-    "main.js": "/command_project_React_Node/static/js/main.b5c403c9.js",
+    "main.js": "/command_project_React_Node/static/js/main.f16cb68c.js",
+    "static/media/spinach_top_right_2x_mob.png": "/command_project_React_Node/static/media/spinach_top_right_2x_mob.6b01380a3f0effc650d5.png",
+    "static/media/bowl_veg_top_right_1x_mob.png": "/command_project_React_Node/static/media/bowl_veg_top_right_1x_mob.8a0acb444d9ba8c9565d.png",
     "index.html": "/command_project_React_Node/index.html",
+    "static/media/icon-arrow-right-black.svg": "/command_project_React_Node/static/media/icon-arrow-right-black.9d550a2db1d1191e1849245ca4133fd7.svg",
     "main.7acaea2f.css.map": "/command_project_React_Node/static/css/main.7acaea2f.css.map",
-    "main.b5c403c9.js.map": "/command_project_React_Node/static/js/main.b5c403c9.js.map"
+    "main.f16cb68c.js.map": "/command_project_React_Node/static/js/main.f16cb68c.js.map"
   },
   "entrypoints": [
     "static/css/main.7acaea2f.css",
-    "static/js/main.b5c403c9.js"
+    "static/js/main.f16cb68c.js"
   ]
 }
