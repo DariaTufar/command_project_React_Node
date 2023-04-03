@@ -1,1 +1,2 @@
-export { AddRecipePage } from './AddRecipePage';
+import AddRecipePage from './AddRecipePage';
+export default AddRecipePage;
