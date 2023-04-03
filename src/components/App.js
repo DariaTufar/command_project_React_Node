@@ -13,21 +13,31 @@ import { ShoppingListPage } from 'pages/ShoppingListPage';
 import { NotFoundPage } from 'pages/NotFoundPage';
 import { ApiTest } from 'api/testComponents/ApiTest';
 import { AuthPage } from 'pages/AuthPage/AuthPage';
-
+import { WelcomePage } from 'pages/WelcomePage';
 import { GlobalStyle } from './GlobalStyle';
+import RestrictedRoute from './RestrictedRoute';
+import PrivateRoute from './PrivateRoute';
 
 export const App = () => {
   return (
     <div>
       <GlobalStyle />
       <Routes>
+        <Route
+          path="welcome"
+          element={<RestrictedRoute component={<WelcomePage />} />}
+        />
+        <Route
+          path="signin"
+          element={<RestrictedRoute component={<AuthPage type="signin" />} />}
+        />
+        <Route
+          path="register"
+          element={<RestrictedRoute component={<AuthPage type="register" />} />}
+        />
 
-        <Route path="signin" element={<AuthPage type='signin'/>}/>
-        <Route path="register" element={<AuthPage type='register' />}/>
-
-
-        <Route path="/" element={<SharedLayout />}>
-          <Route path="main" element={<MainPage />} />
+        <Route path="/" element={<PrivateRoute component={<SharedLayout />} />}>
+          <Route index element={<MainPage />} />
           <Route path="categories/:categoryName" element={<CategoriesPage />} />
           <Route path="add" element={<AddRecipePage />} />
           <Route path="favorite" element={<FavoritePage />} />

@@ -4,10 +4,12 @@ import { validateFormFields } from '../../core/utils/validateFormFields';
 import { HiOutlineMail } from 'react-icons/hi';
 import { CgLock } from 'react-icons/cg';
 import { Icon } from '../Icon/Icon';
+import { useSignIn } from 'api/hooks';
 
 import { ERROR_COLOR, SIGNIN_DEFAULT_ERROR_STATE } from '../../constants/form';
 
 export const SigninForm = () => {
+  const signIn = useSignIn();
   const [signInData, setSignInData] = useState({
     email: '',
     password: '',
@@ -15,32 +17,29 @@ export const SigninForm = () => {
 
   const [signInErrors, setSignInErrors] = useState(SIGNIN_DEFAULT_ERROR_STATE);
 
-  const {
-    email,
-    password,
-  } = signInData;
+  const { email, password } = signInData;
 
-  const {
-    emailError,
-    passwordError,
-  } = signInErrors
+  const { emailError, passwordError } = signInErrors;
 
   const handleSignIn = () => {
-    const errors = validateFormFields(signInData)
-
+    const errors = validateFormFields(signInData);
 
     if (!isNil(errors)) {
       return setSignInErrors(errors);
     }
 
     setSignInErrors(SIGNIN_DEFAULT_ERROR_STATE);
-  }
+    signIn.mutate(signInData);
+  };
 
   return (
     <div className="form-element signin-form">
       <div className="inn">
-
-        <form className="form" autoComplete="off" onSubmit={(e) => e.preventDefault()}>
+        <form
+          className="form"
+          autoComplete="off"
+          onSubmit={e => e.preventDefault()}
+        >
           <h3>Sign In</h3>
           <div className="field">
             <label htmlFor="email">
@@ -53,7 +52,9 @@ export const SigninForm = () => {
                 value={email}
                 placeholder="Email"
                 autoComplete="new-email"
-                onChange={(e) => setSignInData({...signInData, email: e.target.value})}
+                onChange={e =>
+                  setSignInData({ ...signInData, email: e.target.value })
+                }
               />
             </label>
             {emailError && <div className="field-error-text">{emailError}</div>}
@@ -69,15 +70,20 @@ export const SigninForm = () => {
                 value={password}
                 name="password"
                 placeholder="Password"
-                onChange={(e) => setSignInData({...signInData, password: e.target.value})}
+                onChange={e =>
+                  setSignInData({ ...signInData, password: e.target.value })
+                }
               />
             </label>
-            {passwordError && <div className="field-error-text">{passwordError}</div>}
+            {passwordError && (
+              <div className="field-error-text">{passwordError}</div>
+            )}
           </div>
 
-          <button className="submit-button" onClick={() => handleSignIn()}>Sign In</button>
+          <button className="submit-button" onClick={() => handleSignIn()}>
+            Sign In
+          </button>
         </form>
-
       </div>
     </div>
   );
