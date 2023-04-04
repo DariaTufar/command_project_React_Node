@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/command_project_React_Node/static/css/main.0e2d3a86.css",
-    "main.js": "/command_project_React_Node/static/js/main.2f898b42.js",
+    "main.js": "/command_project_React_Node/static/js/main.0937411c.js",
     "static/media/spinach.png": "/command_project_React_Node/static/media/spinach.7f4d17f3443bd397f0e5.png",
     "static/media/authpic.svg": "/command_project_React_Node/static/media/authpic.e42bd30f99b1473f24f8bae33ca09571.svg",
     "static/media/spinach_top_right_2x_mob.png": "/command_project_React_Node/static/media/spinach_top_right_2x_mob.6b01380a3f0effc650d5.png",
@@ -11,10 +11,10 @@
     "static/media/error.svg": "/command_project_React_Node/static/media/error.9dffa3c548a425b2581f.svg",
     "static/media/icon-arrow-right-black.svg": "/command_project_React_Node/static/media/icon-arrow-right-black.9d550a2db1d1191e1849245ca4133fd7.svg",
     "main.0e2d3a86.css.map": "/command_project_React_Node/static/css/main.0e2d3a86.css.map",
-    "main.2f898b42.js.map": "/command_project_React_Node/static/js/main.2f898b42.js.map"
+    "main.0937411c.js.map": "/command_project_React_Node/static/js/main.0937411c.js.map"
   },
   "entrypoints": [
     "static/css/main.0e2d3a86.css",
-    "static/js/main.2f898b42.js"
+    "static/js/main.0937411c.js"
   ]
 }
