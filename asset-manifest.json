@@ -1,9 +1,8 @@
 {
   "files": {
     "main.css": "/command_project_React_Node/static/css/main.0e2d3a86.css",
-    "main.js": "/command_project_React_Node/static/js/main.d08651e8.js",
-    "static/js/454.4d661f19.chunk.js": "/command_project_React_Node/static/js/454.4d661f19.chunk.js",
-    "static/media/spinach.png": "/command_project_React_Node/static/media/spinach.fce92767462baf6f017d.png",
+    "main.js": "/command_project_React_Node/static/js/main.c8cab601.js",
+    "static/media/spinach.png": "/command_project_React_Node/static/media/spinach.7f4d17f3443bd397f0e5.png",
     "static/media/receipy_hero_bg_veggies_desk_2x.png": "/command_project_React_Node/static/media/receipy_hero_bg_veggies_desk_2x.8bbb63649f2758d621b7.png",
     "static/media/receipy_hero_bg_veggies_tab_2x.png": "/command_project_React_Node/static/media/receipy_hero_bg_veggies_tab_2x.aac0e13991bafaea8d87.png",
     "static/media/receipy_hero_bg_veggies_desk_1x.png": "/command_project_React_Node/static/media/receipy_hero_bg_veggies_desk_1x.434d347100d9c73e2992.png",
@@ -13,29 +12,23 @@
     "static/media/spinach_top_right_2x_mob.png": "/command_project_React_Node/static/media/spinach_top_right_2x_mob.6b01380a3f0effc650d5.png",
     "static/media/receipy_hero_bg_veggies_mob_1x.png": "/command_project_React_Node/static/media/receipy_hero_bg_veggies_mob_1x.2835e0e024cad3c41dbc.png",
     "static/media/bowl_veg_top_right_1x_mob.png": "/command_project_React_Node/static/media/bowl_veg_top_right_1x_mob.8a0acb444d9ba8c9565d.png",
-    "static/media/instagram.svg": "/command_project_React_Node/static/media/instagram.962d5ab3a7129bfa72d7b3d01e5d6b33.svg",
     "static/media/food-blank.svg": "/command_project_React_Node/static/media/food-blank.0979e0d80ed6a2f5de462e404bd7e810.svg",
     "static/media/logo_desk.svg": "/command_project_React_Node/static/media/logo_desk.81608629574b1727f87a62a5fc8fda86.svg",
-    "static/media/twitter.svg": "/command_project_React_Node/static/media/twitter.236604bc9b89c1c4636fd15ac117f717.svg",
-    "static/media/logo.svg": "/command_project_React_Node/static/media/logo.39bd67661fbd953eea77dde412149367.svg",
     "index.html": "/command_project_React_Node/index.html",
     "static/media/icon-trash.svg": "/command_project_React_Node/static/media/icon-trash.2ac750b03023fb385cd7fc5dd11ad74b.svg",
-    "static/media/youtube.svg": "/command_project_React_Node/static/media/youtube.aa37aa879abec94712ff720e03a8dc6e.svg",
     "static/media/error.svg": "/command_project_React_Node/static/media/error.9dffa3c548a425b2581f.svg",
     "static/media/icon-edit.svg": "/command_project_React_Node/static/media/icon-edit.e393d7dcdf5f440832a2423b78d2d744.svg",
     "static/media/icon_user.svg": "/command_project_React_Node/static/media/icon_user.707a92d6eafa12e98ccca3bb1cfdf7f4.svg",
-    "static/media/facebook.svg": "/command_project_React_Node/static/media/facebook.ffbb1736e42da023809731707740ec58.svg",
     "static/media/icon-arrow-right-black.svg": "/command_project_React_Node/static/media/icon-arrow-right-black.9d550a2db1d1191e1849245ca4133fd7.svg",
     "static/media/icon-arrow-right.svg": "/command_project_React_Node/static/media/icon-arrow-right.157382eb36accf30f444220fc81e5c3d.svg",
     "static/media/icon-search.svg": "/command_project_React_Node/static/media/icon-search.5eb193cbdc5821c0b375d0e186f86879.svg",
     "static/media/Iconburger-menu.svg": "/command_project_React_Node/static/media/Iconburger-menu.fc6344526fea0c7fbbcff1fe5259a7e4.svg",
     "static/media/Icon_close.svg": "/command_project_React_Node/static/media/Icon_close.e65d91b288ae32a5766ac6680e1de70f.svg",
     "main.0e2d3a86.css.map": "/command_project_React_Node/static/css/main.0e2d3a86.css.map",
-    "main.d08651e8.js.map": "/command_project_React_Node/static/js/main.d08651e8.js.map",
-    "454.4d661f19.chunk.js.map": "/command_project_React_Node/static/js/454.4d661f19.chunk.js.map"
+    "main.c8cab601.js.map": "/command_project_React_Node/static/js/main.c8cab601.js.map"
   },
   "entrypoints": [
     "static/css/main.0e2d3a86.css",
-    "static/js/main.d08651e8.js"
+    "static/js/main.c8cab601.js"
   ]
 }
