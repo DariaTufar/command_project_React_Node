@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/command_project_React_Node/static/css/main.0e2d3a86.css",
-    "main.js": "/command_project_React_Node/static/js/main.d08651e8.js",
-    "static/js/454.4d661f19.chunk.js": "/command_project_React_Node/static/js/454.4d661f19.chunk.js",
+    "main.js": "/command_project_React_Node/static/js/main.77cf8885.js",
+    "static/js/821.e59eea73.chunk.js": "/command_project_React_Node/static/js/821.e59eea73.chunk.js",
     "static/media/spinach.png": "/command_project_React_Node/static/media/spinach.fce92767462baf6f017d.png",
     "static/media/receipy_hero_bg_veggies_desk_2x.png": "/command_project_React_Node/static/media/receipy_hero_bg_veggies_desk_2x.8bbb63649f2758d621b7.png",
     "static/media/receipy_hero_bg_veggies_tab_2x.png": "/command_project_React_Node/static/media/receipy_hero_bg_veggies_tab_2x.aac0e13991bafaea8d87.png",
@@ -10,9 +10,14 @@
     "static/media/receipy_hero_bg_veggies_mob_2x.png": "/command_project_React_Node/static/media/receipy_hero_bg_veggies_mob_2x.0d9b63051b15c84ea01b.png",
     "static/media/authpic.svg": "/command_project_React_Node/static/media/authpic.e42bd30f99b1473f24f8bae33ca09571.svg",
     "static/media/receipy_hero_bg_veggies_tab_1x.png": "/command_project_React_Node/static/media/receipy_hero_bg_veggies_tab_1x.5daf175f0dac01515a6f.png",
-    "static/media/spinach_top_right_2x_mob.png": "/command_project_React_Node/static/media/spinach_top_right_2x_mob.6b01380a3f0effc650d5.png",
+    "static/media/bowl_veg_top_right_1x_desk.png": "/command_project_React_Node/static/media/bowl_veg_top_right_1x_desk.29a11720deca33df27df.png",
+    "static/media/spinach_top_right_1x_desk.png": "/command_project_React_Node/static/media/spinach_top_right_1x_desk.6a48e83bc18b4594539c.png",
+    "static/media/bowl_veg_top_right_1x_tab.png": "/command_project_React_Node/static/media/bowl_veg_top_right_1x_tab.01c8ca3a65e96882bfe8.png",
     "static/media/receipy_hero_bg_veggies_mob_1x.png": "/command_project_React_Node/static/media/receipy_hero_bg_veggies_mob_1x.2835e0e024cad3c41dbc.png",
+    "static/media/spinach_top_left_1x_desk.png": "/command_project_React_Node/static/media/spinach_top_left_1x_desk.4a7e61e803d4ae9ed168.png",
     "static/media/bowl_veg_top_right_1x_mob.png": "/command_project_React_Node/static/media/bowl_veg_top_right_1x_mob.8a0acb444d9ba8c9565d.png",
+    "static/media/spinach_top_right_1x_tab.png": "/command_project_React_Node/static/media/spinach_top_right_1x_tab.a7dc32d64f29f0208437.png",
+    "static/media/spinach_top_right_1x_mob.png": "/command_project_React_Node/static/media/spinach_top_right_1x_mob.46f7c18456ea9e695d78.png",
     "static/media/instagram.svg": "/command_project_React_Node/static/media/instagram.962d5ab3a7129bfa72d7b3d01e5d6b33.svg",
     "static/media/food-blank.svg": "/command_project_React_Node/static/media/food-blank.0979e0d80ed6a2f5de462e404bd7e810.svg",
     "static/media/logo_desk.svg": "/command_project_React_Node/static/media/logo_desk.81608629574b1727f87a62a5fc8fda86.svg",
@@ -25,17 +30,16 @@
     "static/media/icon-edit.svg": "/command_project_React_Node/static/media/icon-edit.e393d7dcdf5f440832a2423b78d2d744.svg",
     "static/media/icon_user.svg": "/command_project_React_Node/static/media/icon_user.707a92d6eafa12e98ccca3bb1cfdf7f4.svg",
     "static/media/facebook.svg": "/command_project_React_Node/static/media/facebook.ffbb1736e42da023809731707740ec58.svg",
-    "static/media/icon-arrow-right-black.svg": "/command_project_React_Node/static/media/icon-arrow-right-black.9d550a2db1d1191e1849245ca4133fd7.svg",
-    "static/media/icon-arrow-right.svg": "/command_project_React_Node/static/media/icon-arrow-right.157382eb36accf30f444220fc81e5c3d.svg",
+    "static/media/icon-arrow-right.svg": "/command_project_React_Node/static/media/icon-arrow-right.17aa636bf4a1f63f15a2463e606914e4.svg",
     "static/media/icon-search.svg": "/command_project_React_Node/static/media/icon-search.5eb193cbdc5821c0b375d0e186f86879.svg",
     "static/media/Iconburger-menu.svg": "/command_project_React_Node/static/media/Iconburger-menu.fc6344526fea0c7fbbcff1fe5259a7e4.svg",
     "static/media/Icon_close.svg": "/command_project_React_Node/static/media/Icon_close.e65d91b288ae32a5766ac6680e1de70f.svg",
     "main.0e2d3a86.css.map": "/command_project_React_Node/static/css/main.0e2d3a86.css.map",
-    "main.d08651e8.js.map": "/command_project_React_Node/static/js/main.d08651e8.js.map",
-    "454.4d661f19.chunk.js.map": "/command_project_React_Node/static/js/454.4d661f19.chunk.js.map"
+    "main.77cf8885.js.map": "/command_project_React_Node/static/js/main.77cf8885.js.map",
+    "821.e59eea73.chunk.js.map": "/command_project_React_Node/static/js/821.e59eea73.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.0e2d3a86.css",
-    "static/js/main.d08651e8.js"
+    "static/js/main.77cf8885.js"
   ]
 }
