@@ -1,20 +1,27 @@
 {
   "files": {
     "main.css": "/command_project_React_Node/static/css/main.0e2d3a86.css",
-    "main.js": "/command_project_React_Node/static/js/main.0937411c.js",
+    "main.js": "/command_project_React_Node/static/js/main.7a1d2e91.js",
     "static/media/spinach.png": "/command_project_React_Node/static/media/spinach.7f4d17f3443bd397f0e5.png",
     "static/media/authpic.svg": "/command_project_React_Node/static/media/authpic.e42bd30f99b1473f24f8bae33ca09571.svg",
     "static/media/spinach_top_right_2x_mob.png": "/command_project_React_Node/static/media/spinach_top_right_2x_mob.6b01380a3f0effc650d5.png",
     "static/media/bowl_veg_top_right_1x_mob.png": "/command_project_React_Node/static/media/bowl_veg_top_right_1x_mob.8a0acb444d9ba8c9565d.png",
     "static/media/food-blank.svg": "/command_project_React_Node/static/media/food-blank.0979e0d80ed6a2f5de462e404bd7e810.svg",
+    "static/media/logo_desk.svg": "/command_project_React_Node/static/media/logo_desk.81608629574b1727f87a62a5fc8fda86.svg",
     "index.html": "/command_project_React_Node/index.html",
     "static/media/error.svg": "/command_project_React_Node/static/media/error.9dffa3c548a425b2581f.svg",
+    "static/media/icon-edit.svg": "/command_project_React_Node/static/media/icon-edit.e393d7dcdf5f440832a2423b78d2d744.svg",
+    "static/media/icon_user.svg": "/command_project_React_Node/static/media/icon_user.707a92d6eafa12e98ccca3bb1cfdf7f4.svg",
     "static/media/icon-arrow-right-black.svg": "/command_project_React_Node/static/media/icon-arrow-right-black.9d550a2db1d1191e1849245ca4133fd7.svg",
+    "static/media/icon-arrow-right.svg": "/command_project_React_Node/static/media/icon-arrow-right.157382eb36accf30f444220fc81e5c3d.svg",
+    "static/media/icon-search.svg": "/command_project_React_Node/static/media/icon-search.5eb193cbdc5821c0b375d0e186f86879.svg",
+    "static/media/Iconburger-menu.svg": "/command_project_React_Node/static/media/Iconburger-menu.fc6344526fea0c7fbbcff1fe5259a7e4.svg",
+    "static/media/Icon_close.svg": "/command_project_React_Node/static/media/Icon_close.e65d91b288ae32a5766ac6680e1de70f.svg",
     "main.0e2d3a86.css.map": "/command_project_React_Node/static/css/main.0e2d3a86.css.map",
-    "main.0937411c.js.map": "/command_project_React_Node/static/js/main.0937411c.js.map"
+    "main.7a1d2e91.js.map": "/command_project_React_Node/static/js/main.7a1d2e91.js.map"
   },
   "entrypoints": [
     "static/css/main.0e2d3a86.css",
-    "static/js/main.0937411c.js"
+    "static/js/main.7a1d2e91.js"
   ]
 }
