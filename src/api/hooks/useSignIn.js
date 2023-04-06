@@ -1,5 +1,5 @@
 import { signIn, setToken, clearToken } from 'api/queries';
-import { useMutate } from './useMutate';
+// import { useMutate } from './useMutate';
 import { setUser } from 'redux/userSlice';
 import { useDispatch } from 'react-redux';
 import { useQueryClient } from '@tanstack/react-query';
@@ -14,8 +14,13 @@ export const useSignIn = cb => {
     setToken(token);
     dispatch(setUser(token));
     queryClient.setQueryData(['user'], user);
-    return user;
+    return { user, token };
   };
 
-  return useMutate(fn, cb);
+  // There is no need to mutate data
+  //return useMutate(fn, cb);
+
+  return {
+    fn,
+  };
 };

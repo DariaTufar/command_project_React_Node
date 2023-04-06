@@ -1,4 +1,6 @@
 import { useState } from 'react';
+import { useAuth } from '../../auth';
+import { useNavigate } from 'react-router-dom';
 import { isNil } from 'lodash/lang';
 import { validateFormFields } from '../../core/utils/validateFormFields';
 import { HiOutlineMail } from 'react-icons/hi';
@@ -14,23 +16,32 @@ export const SigninForm = () => {
     password: '',
   });
 
+    const { fn } = useSignIn();
+    const auth = useAuth();
+    const navigate = useNavigate();
+
   const [signInErrors, setSignInErrors] = useState(SIGNIN_DEFAULT_ERROR_STATE);
 
   const { email, password } = signInData;
 
   const { emailError, passwordError } = signInErrors;
 
-  const { mutate } = useSignIn();
-
-  const handleSignIn = () => {
+  const handleSignIn = async () => {
     const errors = validateFormFields(signInData);
 
     if (!isNil(errors)) {
       return setSignInErrors(errors);
     }
 
-    setSignInErrors(SIGNIN_DEFAULT_ERROR_STATE);
-    mutate({ email, password });
+  setSignInErrors(SIGNIN_DEFAULT_ERROR_STATE);
+  
+      const { token } = await fn(signInData);
+
+    if (!isNil(token)) {
+      auth.login(token);
+
+      navigate('/main', { replace: true });
+    }
   };
 
   return (
