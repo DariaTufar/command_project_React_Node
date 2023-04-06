@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/command_project_React_Node/static/css/main.0e2d3a86.css",
-    "main.js": "/command_project_React_Node/static/js/main.c8cab601.js",
+    "main.js": "/command_project_React_Node/static/js/main.c7a89aea.js",
     "static/media/spinach.png": "/command_project_React_Node/static/media/spinach.7f4d17f3443bd397f0e5.png",
     "static/media/receipy_hero_bg_veggies_desk_2x.png": "/command_project_React_Node/static/media/receipy_hero_bg_veggies_desk_2x.8bbb63649f2758d621b7.png",
     "static/media/receipy_hero_bg_veggies_tab_2x.png": "/command_project_React_Node/static/media/receipy_hero_bg_veggies_tab_2x.aac0e13991bafaea8d87.png",
@@ -13,8 +13,8 @@
     "static/media/receipy_hero_bg_veggies_mob_1x.png": "/command_project_React_Node/static/media/receipy_hero_bg_veggies_mob_1x.2835e0e024cad3c41dbc.png",
     "static/media/bowl_veg_top_right_1x_mob.png": "/command_project_React_Node/static/media/bowl_veg_top_right_1x_mob.8a0acb444d9ba8c9565d.png",
     "static/media/food-blank.svg": "/command_project_React_Node/static/media/food-blank.0979e0d80ed6a2f5de462e404bd7e810.svg",
-    "static/media/logo_desk.svg": "/command_project_React_Node/static/media/logo_desk.81608629574b1727f87a62a5fc8fda86.svg",
     "index.html": "/command_project_React_Node/index.html",
+    "static/media/logo_desk.svg": "/command_project_React_Node/static/media/logo_desk.81608629574b1727f87a62a5fc8fda86.svg",
     "static/media/icon-trash.svg": "/command_project_React_Node/static/media/icon-trash.2ac750b03023fb385cd7fc5dd11ad74b.svg",
     "static/media/error.svg": "/command_project_React_Node/static/media/error.9dffa3c548a425b2581f.svg",
     "static/media/icon-edit.svg": "/command_project_React_Node/static/media/icon-edit.e393d7dcdf5f440832a2423b78d2d744.svg",
@@ -25,10 +25,10 @@
     "static/media/Iconburger-menu.svg": "/command_project_React_Node/static/media/Iconburger-menu.fc6344526fea0c7fbbcff1fe5259a7e4.svg",
     "static/media/Icon_close.svg": "/command_project_React_Node/static/media/Icon_close.e65d91b288ae32a5766ac6680e1de70f.svg",
     "main.0e2d3a86.css.map": "/command_project_React_Node/static/css/main.0e2d3a86.css.map",
-    "main.c8cab601.js.map": "/command_project_React_Node/static/js/main.c8cab601.js.map"
+    "main.c7a89aea.js.map": "/command_project_React_Node/static/js/main.c7a89aea.js.map"
   },
   "entrypoints": [
     "static/css/main.0e2d3a86.css",
-    "static/js/main.c8cab601.js"
+    "static/js/main.c7a89aea.js"
   ]
 }
