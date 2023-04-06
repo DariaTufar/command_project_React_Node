@@ -49,7 +49,7 @@ export const SubscribeForm = () => {
       <Btn type="submit" disabled={!isValid}>
         Submit
       </Btn>
-      {isSubmitted && <p>Thank you for subscribing to our newsletter!</p>}
+      {isSubmitted && <p>Thanks you for subscribing to our newsletter!</p>}
     </Form>
   );
 };
