@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/command_project_React_Node/static/css/main.0e2d3a86.css",
-    "main.js": "/command_project_React_Node/static/js/main.e91a13cf.js",
+    "main.js": "/command_project_React_Node/static/js/main.1467dab7.js",
     "static/media/spinach.png": "/command_project_React_Node/static/media/spinach.fce92767462baf6f017d.png",
     "static/media/receipy_hero_bg_veggies_desk_2x.png": "/command_project_React_Node/static/media/receipy_hero_bg_veggies_desk_2x.8bbb63649f2758d621b7.png",
     "static/media/welcome_hero_desk_2x.jpg": "/command_project_React_Node/static/media/welcome_hero_desk_2x.7ea8aa6a77127d33fd33.jpg",
@@ -21,8 +21,13 @@
     "static/media/bowl_veg_top_right_1x_mob.png": "/command_project_React_Node/static/media/bowl_veg_top_right_1x_mob.8a0acb444d9ba8c9565d.png",
     "static/media/spinach_top_right_1x_tab.png": "/command_project_React_Node/static/media/spinach_top_right_1x_tab.a7dc32d64f29f0208437.png",
     "static/media/arrow_1x_desk.png": "/command_project_React_Node/static/media/arrow_1x_desk.df7948fd9b61251d3731.png",
+    "static/media/not_found_people_tab_1x.png": "/command_project_React_Node/static/media/not_found_people_tab_1x.3ec80520d3f98aa3096c.png",
     "static/media/spinach_top_right_1x_mob.png": "/command_project_React_Node/static/media/spinach_top_right_1x_mob.46f7c18456ea9e695d78.png",
+    "static/media/not_found_people_desk_2x.png": "/command_project_React_Node/static/media/not_found_people_desk_2x.542f142c440352d2e68a.png",
     "static/media/arrow_1x_tabl.png": "/command_project_React_Node/static/media/arrow_1x_tabl.ab59dd8067a43f03d7a0.png",
+    "static/media/not_found_people_mob_2x.png": "/command_project_React_Node/static/media/not_found_people_mob_2x.433b7a236bdebbfc54cd.png",
+    "static/media/not_found_people_desk_1x.png": "/command_project_React_Node/static/media/not_found_people_desk_1x.25da717824c6b9a122b4.png",
+    "static/media/not_found_people_tab_2x.png": "/command_project_React_Node/static/media/not_found_people_tab_2x.dadb4ff7d02d41222cff.png",
     "static/media/instagram.svg": "/command_project_React_Node/static/media/instagram.962d5ab3a7129bfa72d7b3d01e5d6b33.svg",
     "static/media/food-blank.svg": "/command_project_React_Node/static/media/food-blank.0979e0d80ed6a2f5de462e404bd7e810.svg",
     "index.html": "/command_project_React_Node/index.html",
@@ -38,10 +43,10 @@
     "static/media/Iconburger-menu.svg": "/command_project_React_Node/static/media/Iconburger-menu.fc6344526fea0c7fbbcff1fe5259a7e4.svg",
     "static/media/Icon_close.svg": "/command_project_React_Node/static/media/Icon_close.e65d91b288ae32a5766ac6680e1de70f.svg",
     "main.0e2d3a86.css.map": "/command_project_React_Node/static/css/main.0e2d3a86.css.map",
-    "main.e91a13cf.js.map": "/command_project_React_Node/static/js/main.e91a13cf.js.map"
+    "main.1467dab7.js.map": "/command_project_React_Node/static/js/main.1467dab7.js.map"
   },
   "entrypoints": [
     "static/css/main.0e2d3a86.css",
-    "static/js/main.e91a13cf.js"
+    "static/js/main.1467dab7.js"
   ]
 }
