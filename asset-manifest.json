@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/command_project_React_Node/static/css/main.0e2d3a86.css",
-    "main.js": "/command_project_React_Node/static/js/main.107d7647.js",
+    "main.js": "/command_project_React_Node/static/js/main.cad656b4.js",
     "static/media/spinach.png": "/command_project_React_Node/static/media/spinach.7f4d17f3443bd397f0e5.png",
     "static/media/receipy_hero_bg_veggies_desk_2x.png": "/command_project_React_Node/static/media/receipy_hero_bg_veggies_desk_2x.8bbb63649f2758d621b7.png",
     "static/media/welcome_hero_desk_2x.jpg": "/command_project_React_Node/static/media/welcome_hero_desk_2x.7ea8aa6a77127d33fd33.jpg",
@@ -34,8 +34,8 @@
     "static/media/instagram.svg": "/command_project_React_Node/static/media/instagram.962d5ab3a7129bfa72d7b3d01e5d6b33.svg",
     "static/media/food-blank.svg": "/command_project_React_Node/static/media/food-blank.0979e0d80ed6a2f5de462e404bd7e810.svg",
     "index.html": "/command_project_React_Node/index.html",
-    "static/media/logo_desk.svg": "/command_project_React_Node/static/media/logo_desk.81608629574b1727f87a62a5fc8fda86.svg",
     "static/media/twitter.svg": "/command_project_React_Node/static/media/twitter.236604bc9b89c1c4636fd15ac117f717.svg",
+    "static/media/logo_desk.svg": "/command_project_React_Node/static/media/logo_desk.3326a095578a5f612526f7ab93edd379.svg",
     "static/media/logo.svg": "/command_project_React_Node/static/media/logo.39bd67661fbd953eea77dde412149367.svg",
     "static/media/youtube.svg": "/command_project_React_Node/static/media/youtube.aa37aa879abec94712ff720e03a8dc6e.svg",
     "static/media/error.svg": "/command_project_React_Node/static/media/error.9dffa3c548a425b2581f.svg",
@@ -48,10 +48,10 @@
     "static/media/Icon_close.svg": "/command_project_React_Node/static/media/Icon_close.e65d91b288ae32a5766ac6680e1de70f.svg",
     "static/media/chevron.svg": "/command_project_React_Node/static/media/chevron.dbf107a61c932ecaf487ac322c5b7316.svg",
     "main.0e2d3a86.css.map": "/command_project_React_Node/static/css/main.0e2d3a86.css.map",
-    "main.107d7647.js.map": "/command_project_React_Node/static/js/main.107d7647.js.map"
+    "main.cad656b4.js.map": "/command_project_React_Node/static/js/main.cad656b4.js.map"
   },
   "entrypoints": [
     "static/css/main.0e2d3a86.css",
-    "static/js/main.107d7647.js"
+    "static/js/main.cad656b4.js"
   ]
 }
