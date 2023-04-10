@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/command_project_React_Node/static/css/main.0e2d3a86.css",
-    "main.js": "/command_project_React_Node/static/js/main.1467dab7.js",
+    "main.js": "/command_project_React_Node/static/js/main.55068ab9.js",
     "static/media/spinach.png": "/command_project_React_Node/static/media/spinach.fce92767462baf6f017d.png",
     "static/media/receipy_hero_bg_veggies_desk_2x.png": "/command_project_React_Node/static/media/receipy_hero_bg_veggies_desk_2x.8bbb63649f2758d621b7.png",
     "static/media/welcome_hero_desk_2x.jpg": "/command_project_React_Node/static/media/welcome_hero_desk_2x.7ea8aa6a77127d33fd33.jpg",
@@ -11,12 +11,14 @@
     "static/media/receipy_hero_bg_veggies_mob_2x.png": "/command_project_React_Node/static/media/receipy_hero_bg_veggies_mob_2x.0d9b63051b15c84ea01b.png",
     "static/media/welcome_hero_mob_1x.png": "/command_project_React_Node/static/media/welcome_hero_mob_1x.692bbe560a4d93cc1206.png",
     "static/media/authpic.svg": "/command_project_React_Node/static/media/authpic.e42bd30f99b1473f24f8bae33ca09571.svg",
+    "static/media/bucket_veggies_desk_1x.png": "/command_project_React_Node/static/media/bucket_veggies_desk_1x.3c0232a5f0c7332b77cc.png",
+    "static/media/bucket_veggies_tab_1x.png": "/command_project_React_Node/static/media/bucket_veggies_tab_1x.3c0232a5f0c7332b77cc.png",
     "static/media/receipy_hero_bg_veggies_tab_1x.png": "/command_project_React_Node/static/media/receipy_hero_bg_veggies_tab_1x.5daf175f0dac01515a6f.png",
     "static/media/bowl_veg_top_right_1x_desk.png": "/command_project_React_Node/static/media/bowl_veg_top_right_1x_desk.29a11720deca33df27df.png",
-    "static/media/bucket_veggies_desk_2x.png": "/command_project_React_Node/static/media/bucket_veggies_desk_2x.1598a8f7b49aa3582af0.png",
     "static/media/spinach_top_right_1x_desk.png": "/command_project_React_Node/static/media/spinach_top_right_1x_desk.6a48e83bc18b4594539c.png",
     "static/media/bowl_veg_top_right_1x_tab.png": "/command_project_React_Node/static/media/bowl_veg_top_right_1x_tab.01c8ca3a65e96882bfe8.png",
     "static/media/receipy_hero_bg_veggies_mob_1x.png": "/command_project_React_Node/static/media/receipy_hero_bg_veggies_mob_1x.2835e0e024cad3c41dbc.png",
+    "static/media/bucket_veggies_mob_1x.png": "/command_project_React_Node/static/media/bucket_veggies_mob_1x.2f56a7b7eabacfd09f2e.png",
     "static/media/spinach_top_left_1x_desk.png": "/command_project_React_Node/static/media/spinach_top_left_1x_desk.4a7e61e803d4ae9ed168.png",
     "static/media/bowl_veg_top_right_1x_mob.png": "/command_project_React_Node/static/media/bowl_veg_top_right_1x_mob.8a0acb444d9ba8c9565d.png",
     "static/media/spinach_top_right_1x_tab.png": "/command_project_React_Node/static/media/spinach_top_right_1x_tab.a7dc32d64f29f0208437.png",
@@ -43,10 +45,10 @@
     "static/media/Iconburger-menu.svg": "/command_project_React_Node/static/media/Iconburger-menu.fc6344526fea0c7fbbcff1fe5259a7e4.svg",
     "static/media/Icon_close.svg": "/command_project_React_Node/static/media/Icon_close.e65d91b288ae32a5766ac6680e1de70f.svg",
     "main.0e2d3a86.css.map": "/command_project_React_Node/static/css/main.0e2d3a86.css.map",
-    "main.1467dab7.js.map": "/command_project_React_Node/static/js/main.1467dab7.js.map"
+    "main.55068ab9.js.map": "/command_project_React_Node/static/js/main.55068ab9.js.map"
   },
   "entrypoints": [
     "static/css/main.0e2d3a86.css",
-    "static/js/main.1467dab7.js"
+    "static/js/main.55068ab9.js"
   ]
 }
