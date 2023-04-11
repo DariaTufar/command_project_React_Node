@@ -14,21 +14,21 @@ export const theme = Object.freeze({
     black: 900,
   },
   colors: {
-    primaryDarkText: '#23262A', /// long text of recipy
-    secondaryDarkText: '#3E4462', /// titles of recipy, ingredients
-    tertiaryDarkText: '#001833', /// title of pages (Favorites, My receipies, categories, search, shopping list
+    // primaryDarkText: '#23262A', /// long text of recipy
+    // secondaryDarkText: '#3E4462', /// titles of recipy, ingredients
+    // tertiaryDarkText: '#001833', /// title of pages (Favorites, My receipies, categories, search, shopping list
     quaternaryDarkText: '#22252A',
 
     blackText: '#000000',
 
-    primaryLightText: '#FAFAFA', // in footer,  and in darkTheme
+    // primaryLightText: '#FAFAFA', // in footer,  and in darkTheme
 
     whiteText: '#ffffff',
 
-    normalDark: '#1E1F28', // buttons
+    // normalDark: '#1E1F28', // buttons
     normalGrey: '#f0f0f0', // buttons, background in add recipy, search
-    darkAccent: '#22252A', // footer
-    greenAccent: '#8BAA36', // buttons  , footer in darkTheme
+    // darkAccent: '#22252A', // footer
+    // greenAccent: '#8BAA36', // buttons  , footer in darkTheme
 
     greenValidation: '#3CBC81', // in forms
     yellowValidation: '#F6C23E',
