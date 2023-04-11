@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/command_project_React_Node/static/css/main.d01b5c28.css",
-    "main.js": "/command_project_React_Node/static/js/main.dd3c51bb.js",
+    "main.js": "/command_project_React_Node/static/js/main.1d53ebdc.js",
     "static/media/spinach.png": "/command_project_React_Node/static/media/spinach.7f4d17f3443bd397f0e5.png",
     "static/media/receipy_hero_bg_veggies_desk_2x.png": "/command_project_React_Node/static/media/receipy_hero_bg_veggies_desk_2x.8bbb63649f2758d621b7.png",
     "static/media/welcome_hero_desk_2x.jpg": "/command_project_React_Node/static/media/welcome_hero_desk_2x.7ea8aa6a77127d33fd33.jpg",
@@ -55,10 +55,10 @@
     "static/media/Icon_close.svg": "/command_project_React_Node/static/media/Icon_close.e65d91b288ae32a5766ac6680e1de70f.svg",
     "static/media/chevron.svg": "/command_project_React_Node/static/media/chevron.dbf107a61c932ecaf487ac322c5b7316.svg",
     "main.d01b5c28.css.map": "/command_project_React_Node/static/css/main.d01b5c28.css.map",
-    "main.dd3c51bb.js.map": "/command_project_React_Node/static/js/main.dd3c51bb.js.map"
+    "main.1d53ebdc.js.map": "/command_project_React_Node/static/js/main.1d53ebdc.js.map"
   },
   "entrypoints": [
     "static/css/main.d01b5c28.css",
-    "static/js/main.dd3c51bb.js"
+    "static/js/main.1d53ebdc.js"
   ]
 }
