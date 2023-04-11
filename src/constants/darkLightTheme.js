@@ -29,7 +29,6 @@ export const lightTheme = {
 
   lightBackground: '#fafafa',
   primaryDarkBackground: '#1E1F28',
-  secondaryDarkBackground: '#22252A',
   messageBackground: '#53545599',
 };
 
@@ -52,7 +51,7 @@ export const darkTheme = {
   secondaryDarkBackground: '#8BAA36', ///  FAVORITES BUTTON
   recipyLightBgItem: '#2A2C36', //  receipe bACKGROUND of item
   myRecipyDeleteButton: '#8BAA36', // my recipe  delete button background, no change
-
+  //  no change
   normalGrey: '#f0f0f0', /// border in search form ! no change! added transparency 0.5 in search form
   whiteText: '#ffffff', // no change
   blackText: '#ffffff', //
@@ -64,7 +63,7 @@ export const darkTheme = {
 
   lightBackground: '#fafafa',
   primaryDarkBackground: '#1E1F28',
-  secondaryDarkBackground: '#22252A',
+
   messageBackground: '#53545599',
 };
 
