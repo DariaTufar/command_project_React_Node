@@ -17,27 +17,27 @@ export const theme = Object.freeze({
     // primaryDarkText: '#23262A', /// long text of recipy
     // secondaryDarkText: '#3E4462', /// titles of recipy, ingredients
     // tertiaryDarkText: '#001833', /// title of pages (Favorites, My receipies, categories, search, shopping list
-    quaternaryDarkText: '#22252A',
+    // quaternaryDarkText: '#22252A',
 
-    blackText: '#000000',
+    // blackText: '#00000/0',
 
     // primaryLightText: '#FAFAFA', // in footer,  and in darkTheme
 
-    whiteText: '#ffffff',
+    // whiteText: '#ffffff',
 
     // normalDark: '#1E1F28', // buttons
-    normalGrey: '#f0f0f0', // buttons, background in add recipy, search
+    // normalGrey: '#f0f0f0', // buttons, background in add recipy, search
     // darkAccent: '#22252A', // footer
     // greenAccent: '#8BAA36', // buttons  , footer in darkTheme
 
-    greenValidation: '#3CBC81', // in forms
-    yellowValidation: '#F6C23E',
-    redValidation: '#E74A3B',
+    // greenValidation: '#3CBC81', // in forms
+    // yellowValidation: '#F6C23E',
+    // redValidation: '#E74A3B',
 
-    lightBackground: '#fafafa',
-    primaryDarkBackground: '#1E1F28',
-    secondaryDarkBackground: '#22252A',
-    messageBackground: '#53545599',
+    // lightBackground: '#fafafa',
+    // primaryDarkBackground: '#1E1F28',
+    // secondaryDarkBackground: '#22252A',
+    // messageBackground: '#53545599',
   },
   radii: {
     none: '0',

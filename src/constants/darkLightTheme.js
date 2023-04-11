@@ -19,9 +19,19 @@ export const lightTheme = {
   recipyLightBgItem: '  #EBF3D4',
   myRecipyDeleteButton: '#8BAA36', // my recipe  delete button background, no change
   normalGrey: '#f0f0f0', /// border in search form
+  //  no change
+  whiteText: '#ffffff',
+  blackText: '#000000',
+  quaternaryDarkText: '#22252A',
+  greenValidation: '#3CBC81', // in forms
+  yellowValidation: '#F6C23E',
+  redValidation: '#E74A3B',
+
+  lightBackground: '#fafafa',
+  primaryDarkBackground: '#1E1F28',
+  secondaryDarkBackground: '#22252A',
+  messageBackground: '#53545599',
 };
-
-
 
 export const darkTheme = {
   primaryLightText: '#1E1F28', // black background
@@ -43,5 +53,23 @@ export const darkTheme = {
   recipyLightBgItem: '#2A2C36', //  receipe bACKGROUND of item
   myRecipyDeleteButton: '#8BAA36', // my recipe  delete button background, no change
 
-  normalGrey: '#FAFAFA', /// border in search form !!!! added transparency 0.5 in search form
+  normalGrey: '#f0f0f0', /// border in search form ! no change! added transparency 0.5 in search form
+  whiteText: '#ffffff', // no change
+  blackText: '#ffffff', //
+  quaternaryDarkText: '#22252A', // no change
+
+  greenValidation: '#3CBC81', // in forms
+  yellowValidation: '#F6C23E',
+  redValidation: '#E74A3B',
+
+  lightBackground: '#fafafa',
+  primaryDarkBackground: '#1E1F28',
+  secondaryDarkBackground: '#22252A',
+  messageBackground: '#53545599',
 };
+
+// white -> black
+//black- white
+//black - green
+//
+// no change
