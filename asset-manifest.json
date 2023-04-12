@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/command_project_React_Node/static/css/main.d01b5c28.css",
-    "main.js": "/command_project_React_Node/static/js/main.bd1a003e.js",
+    "main.js": "/command_project_React_Node/static/js/main.d35b26ad.js",
     "static/media/spinach.png": "/command_project_React_Node/static/media/spinach.7f4d17f3443bd397f0e5.png",
     "static/media/receipy_hero_bg_veggies_desk_2x.png": "/command_project_React_Node/static/media/receipy_hero_bg_veggies_desk_2x.8bbb63649f2758d621b7.png",
     "static/media/bucket_veggies_desk_2x.png": "/command_project_React_Node/static/media/bucket_veggies_desk_2x.b96f7b444d30f77b7398.png",
@@ -56,10 +56,10 @@
     "static/media/Icon_close.svg": "/command_project_React_Node/static/media/Icon_close.e65d91b288ae32a5766ac6680e1de70f.svg",
     "static/media/chevron.svg": "/command_project_React_Node/static/media/chevron.dbf107a61c932ecaf487ac322c5b7316.svg",
     "main.d01b5c28.css.map": "/command_project_React_Node/static/css/main.d01b5c28.css.map",
-    "main.bd1a003e.js.map": "/command_project_React_Node/static/js/main.bd1a003e.js.map"
+    "main.d35b26ad.js.map": "/command_project_React_Node/static/js/main.d35b26ad.js.map"
   },
   "entrypoints": [
     "static/css/main.d01b5c28.css",
-    "static/js/main.bd1a003e.js"
+    "static/js/main.d35b26ad.js"
   ]
 }
