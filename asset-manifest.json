@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/command_project_React_Node/static/css/main.d01b5c28.css",
-    "main.js": "/command_project_React_Node/static/js/main.41e7b22a.js",
+    "main.js": "/command_project_React_Node/static/js/main.a21cd4c6.js",
     "static/media/spinach.png": "/command_project_React_Node/static/media/spinach.7f4d17f3443bd397f0e5.png",
     "static/media/receipy_hero_bg_veggies_desk_2x.png": "/command_project_React_Node/static/media/receipy_hero_bg_veggies_desk_2x.8bbb63649f2758d621b7.png",
     "static/media/bucket_veggies_desk_2x.png": "/command_project_React_Node/static/media/bucket_veggies_desk_2x.b96f7b444d30f77b7398.png",
@@ -53,13 +53,14 @@
     "static/media/facebook.svg": "/command_project_React_Node/static/media/facebook.ffbb1736e42da023809731707740ec58.svg",
     "static/media/icon-arrow-right.svg": "/command_project_React_Node/static/media/icon-arrow-right.0bdf794328f8c89ec72d3078b1610e4a.svg",
     "static/media/Iconburger-menu.svg": "/command_project_React_Node/static/media/Iconburger-menu.fc6344526fea0c7fbbcff1fe5259a7e4.svg",
+    "static/media/cross.svg": "/command_project_React_Node/static/media/cross.44bd7daf4d5ab70d483424a45782e594.svg",
     "static/media/Icon_close.svg": "/command_project_React_Node/static/media/Icon_close.892e8c46e238daf665832c0ee1b9b3b7.svg",
     "static/media/chevron.svg": "/command_project_React_Node/static/media/chevron.dbf107a61c932ecaf487ac322c5b7316.svg",
     "main.d01b5c28.css.map": "/command_project_React_Node/static/css/main.d01b5c28.css.map",
-    "main.41e7b22a.js.map": "/command_project_React_Node/static/js/main.41e7b22a.js.map"
+    "main.a21cd4c6.js.map": "/command_project_React_Node/static/js/main.a21cd4c6.js.map"
   },
   "entrypoints": [
     "static/css/main.d01b5c28.css",
-    "static/js/main.41e7b22a.js"
+    "static/js/main.a21cd4c6.js"
   ]
 }
