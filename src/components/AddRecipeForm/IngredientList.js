@@ -54,6 +54,7 @@ const List = styled.ul`
   display: flex;
   flex-direction: column;
   gap: 18px;
+
   @media (min-width: ${({ theme: { devices } }) => devices.desktop}) {
     width: 610px;
   }
