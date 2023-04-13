@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/command_project_React_Node/static/css/main.d01b5c28.css",
-    "main.js": "/command_project_React_Node/static/js/main.b8573a85.js",
+    "main.js": "/command_project_React_Node/static/js/main.5e100814.js",
     "static/js/288.f09f88a4.chunk.js": "/command_project_React_Node/static/js/288.f09f88a4.chunk.js",
     "static/media/spinach.png": "/command_project_React_Node/static/media/spinach.7f4d17f3443bd397f0e5.png",
     "static/media/receipy_hero_bg_veggies_desk_2x.png": "/command_project_React_Node/static/media/receipy_hero_bg_veggies_desk_2x.8bbb63649f2758d621b7.png",
@@ -58,11 +58,11 @@
     "static/media/Icon_close.svg": "/command_project_React_Node/static/media/Icon_close.892e8c46e238daf665832c0ee1b9b3b7.svg",
     "static/media/chevron.svg": "/command_project_React_Node/static/media/chevron.dbf107a61c932ecaf487ac322c5b7316.svg",
     "main.d01b5c28.css.map": "/command_project_React_Node/static/css/main.d01b5c28.css.map",
-    "main.b8573a85.js.map": "/command_project_React_Node/static/js/main.b8573a85.js.map",
+    "main.5e100814.js.map": "/command_project_React_Node/static/js/main.5e100814.js.map",
     "288.f09f88a4.chunk.js.map": "/command_project_React_Node/static/js/288.f09f88a4.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.d01b5c28.css",
-    "static/js/main.b8573a85.js"
+    "static/js/main.5e100814.js"
   ]
 }
